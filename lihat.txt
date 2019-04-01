@@ -1,0 +1,18 @@
+admin lihat
+-daftar ormas
+-akun ormas
+
+
+kepala lihat
+-daftar ormas
+-berkas ormas
+-akun ormas
+
+
+user lihat
+-info terdaftar
+-akun baru
+-daftar ormas terdaftar
+-profile kesbagpol
+-kegiatan ormas lain
+

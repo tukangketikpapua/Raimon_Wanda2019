@@ -1,0 +1,17 @@
+admin input
+-persyaratan
+-profil
+-data ormas
+
+
+
+kepala input
+- akun ormas
+
+
+
+
+
+user input
+-berkas persyaratan
+-kegiatan
